@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run @//:ProjectRunner using Bazel (should work)" type="BazelRunConfigurationType">
+    <bsp-state handler-provider-id="JvmBspRunHandlerProvider">
+      <bsp-target>@//:ProjectRunner</bsp-target>
+      <handler-state programArguments="--project.dir=$ProjectFileDir$" />
+    </bsp-state>
+    <method v="2" />
+  </configuration>
+</component>
